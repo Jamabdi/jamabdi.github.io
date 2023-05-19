@@ -9,27 +9,31 @@ body{
 
 .info-header{
   text-align: center;
+  border-top: 4px solid;
+  border-bottom: 2px solid;
+  background: rgba(128,0,0, 0.4);
 }
 
 .Prof-header{
-  background-color: #800000;
-  border-top: 4px solid;
+  background: rgba(128,0,0, 0.4);
+  border-top: 2px solid;
   border-bottom: 2px solid;
   }
 
 .exp-header{
-   background-color: #800000;
+   background: rgba(128,0,0, 0.4);
   border-top: 2px solid;
   border-bottom: 2px solid;
 }
 
 .education-header{
-   background-color: #800000;
+    background: rgba(128,0,0, 0.4);
   border-top: 2px solid;
   display: grid;
   gap: 0.5rem;
   border-bottom: 4px solid;
 }
+
 
 
 
