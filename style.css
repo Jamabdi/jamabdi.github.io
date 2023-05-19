@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://t4.ftcdn.net/jpg/05/81/59/61/360_F_581596130_SYR8NdzWPQuCiJHsxhDXVHT2M0AKRr9U.jpg");
+  background-image: url("https://live.staticflickr.com/4908/32490740718_99d6418667_b.jpg");
   background-size: cover;
   color: white;
   background-color: olive;
@@ -11,32 +11,25 @@ body{
   text-align: center;
   border-top: 4px solid;
   border-bottom: 2px solid;
-  background: rgba(128,0,0, 0.4);
+  background: rgba(128,0,0, 0.2);
 }
 
 .Prof-header{
-  background: rgba(128,0,0, 0.4);
+  background: rgba(128,0,0, 0.2);
   border-top: 2px solid;
   border-bottom: 2px solid;
   }
 
 .exp-header{
-   background: rgba(128,0,0, 0.4);
+   background: rgba(128,0,0, 0.2);
   border-top: 2px solid;
   border-bottom: 2px solid;
 }
 
 .education-header{
-    background: rgba(128,0,0, 0.4);
+    background: rgba(128,0,0, 0.1);
   border-top: 2px solid;
   display: grid;
   gap: 0.5rem;
   border-bottom: 4px solid;
 }
-
-
-
-
-
-
-
