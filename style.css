@@ -1,6 +1,7 @@
 body{
   background-image: url("https://live.staticflickr.com/4908/32490740718_99d6418667_b.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   color: white;
   background-color: olive;
   font-family: arial, helvetica, sans-serif;
